@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8D50CD73-7B2E-B7E6-5695-DFF135375F0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PrintToConsole.cs">
+    <Files>
+      <File FileName="Assets/PrintToConsole.cs" Line="3" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PretendPlatformer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PrintToConsole.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="66efa42a-609d-43a7-810f-e7b569237560" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
